@@ -1,0 +1,47 @@
+.navbar
+{font-family:    Garamond;
+background-color: rgba(255,255,255,0.9);
+}
+
+.navbar-brand
+{
+	color: gray;
+}
+
+.jumbotron
+{background-color: white;
+font-family:    Garamond;}
+
+h2
+{font-weight: bold;
+margin-top:80px;}
+.breadcrumb
+{margin-top: 10px;
+background-color: rgba(255,255,255,0.2);
+
+color: black;}
+.breadcrumb li a {color:gray}
+.breadcrumb li a:hover {color:black}
+
+.portfolio-link
+{font-family:    Garamond;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 10px;
+	font-weight: 700;
+	color: rgba(70,70,70,0.9);
+}
+
+
+.img-responsive{padding-top: 90px;}
+.img-responsive:hover {
+    opacity: 0.65;
+ 
+    /* For IE8 and earlier */
+}
+	hr
+	{border-color: rgba(180,180,180,0.4);
+  border-width: 2px;
+  }
+
+  
