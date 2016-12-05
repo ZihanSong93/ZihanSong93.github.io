@@ -4,17 +4,18 @@ background-color: rgba(255,255,255,0.9);
 }
 
 .navbar-brand
-{
+{font-family: 'Cormorant Garamond', serif;
 	color: gray;
 }
 
 .jumbotron
 {background-color: white;
-font-family:    Garamond;}
+font-family: 'Cormorant Garamond', serif;}
 
 h2
 {font-weight: bold;
-margin-top:80px;}
+margin-top:80px;
+}
 .breadcrumb
 {margin-top: 10px;
 background-color: rgba(255,255,255,0.2);
